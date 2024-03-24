@@ -2341,7 +2341,31 @@
         "tech": ["reactjs", "javascript", "css", "html"]
       }
     ]
+  } , 
+  {
+    "github_username": "harleen001",
+    "Projects": [
+      {
+        "github_url": "https://github.com/harleen001/PrecisionLib240",
+        "title": "  PrecisionLib240",
+        "description": "A C++ MIT Licensed Open Source Freeware Library to minimize code and maximize productivity",
+        "tech": ["c++"]
+      },
+      {
+        "github_url": "https://github.com/srujana-16/Multi-Stack-Games",
+        "title": "Multi Stack Games",
+        "description": "This repository contains games built using different tech stacks: web development with html, css, and javascript, and terminal games in Python.",
+        "tech": ["html", "javascript", "css", "python"]
+      },
+      {
+        "github_url": "https://github.com/srujana-16/Automatic-obstacle-detection-car-with-color-sensor",
+        "title": "Automatic Obstacle Detection Car with Colour sensor",
+        "description": "In this project, an automatic obstacle detecting car was made. The car uses ultrasonic sensors to detect obstacles and avoid them. A color sensor is used to start and stop the car. An algorithm for the navigation of the car was created and implemented on the Arduino.",
+        "tech": ["c++", "arduino ide"]
+      }
+    ]
   },
+  
   {
     "github_username": "srujana-16",
     "Projects": [
